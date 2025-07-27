@@ -1,11 +1,16 @@
-# Data Scientist
+# Computer Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Programming Skills: Python, SQL, C, C++, Java, js, Laravel, Django, PHP, AWS, Git
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+#### Simulation Software: LTSpice, Proteus, Wireshark, Oracle Virtual Box, 8086 emulator, Cisco Packet Tracer, MATLAB
+
+## Education 			        		
+- B.S., CSE | BRAC University, Dhaka, Bangladesh (_2021 - 2025_)
+  _CGPA: ****_
+- H.S.C., Science | Adamjee Cantonment College, Dhaka, Bangladesh (_2017 - 2019_)
+  _GPA: 5.00_
+- S.S.C., Science | Bangladesh International School, Dhaka, Bangladesh (_2017_)
+  _GPA: 5.00_
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
