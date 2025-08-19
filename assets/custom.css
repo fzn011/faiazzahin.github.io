@@ -1,1 +1,31 @@
+/* custom.css */
+body {
+  background-color: #f0f0f0; /* Change to your desired background color */
+  color: #333333; /* Change to your desired text color */
+}
 
+.navbar {
+  background-color: #4CAF50; /* Change navbar background color */
+}
+
+.navbar a {
+  color: white; /* Change navbar text color */
+}
+
+.footer {
+  background-color: #333333; /* Change footer background color */
+  color: white; /* Change footer text color */
+}
+
+.site-title {
+  color: #1e90ff; /* Change site title color */
+}
+
+/* Change link color */
+a {
+  color: #4CAF50; /* Change to your desired link color */
+}
+
+a:hover {
+  color: #1e90ff; /* Change to your desired hover link color */
+}
