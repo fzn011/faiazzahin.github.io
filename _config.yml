@@ -4,6 +4,13 @@ description: Fresh Computer Science Graduate
 show_downloads: true
 theme: jekyll-theme-minimal
 
-# Add custom CSS
-extra_css:
-  - /assets/custom.css
+# Add this line
+plugins:
+  - jekyll-seo-tag
+
+# Link custom CSS
+markdown: kramdown
+sass:
+  style: compressed
+include:
+  - assets/css
