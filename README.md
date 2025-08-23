@@ -24,5 +24,6 @@
 ## Projects
 ### Cardiovascular Disease Prediction
 [Project](https://github.com/fzn011/Cardiovascular_Disease_Prediction)
+
 This project uses machine learning to predict cardiovascular diseases (CVDs) from a Kaggle dataset of 70,000 records with 13 health features. Random Forest performed best (98% training, 71% testing), while Logistic Regression and MLP achieved \~72–73% accuracy. It demonstrates the potential of machine learning for early detection and risk prediction of heart diseases.
 
