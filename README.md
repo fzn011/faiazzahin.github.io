@@ -24,4 +24,4 @@
 
 The Learning-Website project is a web-based educational platform built using Laravel with PHP, JavaScript, Blade templates, Vue.js, Tailwind CSS, and Vite for a modern and responsive UI. The repository follows a typical Laravel MVC structure, including routing, templating, asset management, and database integration. While the README mainly contains Laravel’s default setup instructions, the project appears to be designed for hosting and managing learning content, suggesting features like user authentication, course listings, and an interactive interface.
 
-![LMS](/assets/img/LMS.png)
+![LMS](/assets/LMS.png)
