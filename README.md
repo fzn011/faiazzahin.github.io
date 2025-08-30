@@ -33,3 +33,11 @@ The Learning-Website project is a web-based educational platform built using Lar
 The project designs a Password Protection System using XOR, AND, and NOT gates. It compares a 4-bit key code with user input; if they match, a green LED lights up, and if not, a red LED shows. This system demonstrates how digital logic gates can be used for security by validating passwords.
 
 ![Password Protection System](/assets/Password_Protection_System.png)
+
+###  Predicting Coronary Artery disease with Random Forest, Multi-layer Perceptron and Logistic Regression Models
+
+[Cardiovascular_Disease_Prediction](https://github.com/fzn011/Cardiovascular_Disease_Prediction)
+
+Developed a machine learning-based model to predict cardiovascular diseases using data such as age, cholesterol, and blood pressure. Implemented Random Forest, Logistic Regression, and Multi-layer Perceptron models to classify patients as healthy or at risk. Achieved high accuracy with Random Forest (98% on training data), and evaluated models using metrics like precision, recall, and F1-score.
+
+![Cardiovascular_Disease_Prediction](assets/Cardiovascular_Disease_Prediction.png)
