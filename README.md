@@ -19,8 +19,9 @@
 - As an Officer Cadet at the Bangladesh Military Academy, I underwent rigorous training in leadership, military tactics, and physical fitness. This program would have prepared me to become a commissioned officer in the Bangladesh Army, focusing on discipline, strategic thinking, and the ability to lead and manage troops in various combat and operational settings.
 
 ## Projects
-### Cardiovascular Disease Prediction
-[Project](https://github.com/fzn011/Cardiovascular_Disease_Prediction)
+### LMS (Learning Management System)
+[Project](https://github.com/fzn011/Learning-Website)
 
-This project uses machine learning to predict cardiovascular diseases (CVDs) from a Kaggle dataset of 70,000 records with 13 health features. Random Forest performed best (98% training, 71% testing), while Logistic Regression and MLP achieved \~72–73% accuracy. It demonstrates the potential of machine learning for early detection and risk prediction of heart diseases.
+The Learning-Website project is a web-based educational platform built using Laravel with PHP, JavaScript, Blade templates, Vue.js, Tailwind CSS, and Vite for a modern and responsive UI. The repository follows a typical Laravel MVC structure, including routing, templating, asset management, and database integration. While the README mainly contains Laravel’s default setup instructions, the project appears to be designed for hosting and managing learning content, suggesting features like user authentication, course listings, and an interactive interface.
 
+![LMS](/assets/img/LMS.png)
