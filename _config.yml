@@ -1,5 +1,35 @@
-title: Faiaz Zahin
-logo: /assets/Faiaz%20Logo.png
-description: Fresh Computer Science Graduate
-show_downloads: true
-theme: jekyll-theme-minimal
+---
+layout: default
+title : Jayanta Sadhu
+navbar_title: Home
+num_selected: 10
+---
+{% include widgets/profile_card.html %}
+
+{% include widgets/url_debug_message.html %}
+
+{% if site.data.display.homepage.show_news %}
+{% assign count_news = site.data.news | size %}
+{% if count_news > 0 %}
+{% include widgets/news_card.html %}
+{% endif %}
+{% endif %}
+
+{% include widgets/resume.html %}
+
+<!-- {% if site.data.display.homepage.show_experience %}
+{% include widgets/experience_card.html %}
+{% endif %} -->
+
+<!-- {% if site.data.display.homepage.show_awards %}
+{% include widgets/awards_card.html %}
+{% endif %} -->
+
+<!-- {% if site.data.display.homepage.show_selected_publications %}
+{% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+{% 
+    include widgets/publication_card.html 
+    publications=pubs limit=page.num_selected 
+    title='<i class="fas fa-star"></i> Selected Publications'
+%}
+{% endif %} -->
