@@ -1,35 +1,41 @@
----
-layout: default
-title : Jayanta Sadhu
-navbar_title: Home
-num_selected: 10
----
-{% include widgets/profile_card.html %}
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-{% include widgets/url_debug_message.html %}
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+baseurl: "" # the subpath of your site, e.g. /blog
 
-{% if site.data.display.homepage.show_news %}
-{% assign count_news = site.data.news | size %}
-{% if count_news > 0 %}
-{% include widgets/news_card.html %}
-{% endif %}
-{% endif %}
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
 
-{% include widgets/resume.html %}
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
-<!-- {% if site.data.display.homepage.show_experience %}
-{% include widgets/experience_card.html %}
-{% endif %} -->
+# timezone: Asia/Shanghai
 
-<!-- {% if site.data.display.homepage.show_awards %}
-{% include widgets/awards_card.html %}
-{% endif %} -->
-
-<!-- {% if site.data.display.homepage.show_selected_publications %}
-{% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-{% 
-    include widgets/publication_card.html 
-    publications=pubs limit=page.num_selected 
-    title='<i class="fas fa-star"></i> Selected Publications'
-%}
-{% endif %} -->
+collections:
+  - publications
+  - news
+  - projects
+  - research
