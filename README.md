@@ -19,10 +19,10 @@
 - As an Officer Cadet at the Bangladesh Military Academy, I underwent rigorous training in leadership, military tactics, and physical fitness. This program would have prepared me to become a commissioned officer in the Bangladesh Army, focusing on discipline, strategic thinking, and the ability to lead and manage troops in various combat and operational settings.
 
 ## Projects
-### LMS (Learning Management System)
+### Online Learning Platform
 [LMS](https://github.com/fzn011/Learning-Website)
 
-The Learning-Website project is a web-based educational platform built using Laravel with PHP, JavaScript, Blade templates, Vue.js, Tailwind CSS, and Vite for a modern and responsive UI. The repository follows a typical Laravel MVC structure, including routing, templating, asset management, and database integration. While the README mainly contains Laravel’s default setup instructions, the project appears to be designed for hosting and managing learning content, suggesting features like user authentication, course listings, and an interactive interface.
+The project uses Laravel 10 as the PHP framework, with MySQL for database management and XAMPP for the local server. Bootstrap is used for the responsive frontend, and development is done using Visual Studio Code. The Breeze Package implements multi authentication functionality.
 
 ![LMS](/assets/LMS.png)
 
