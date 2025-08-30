@@ -34,6 +34,7 @@ The project designs a Password Protection System using XOR, AND, and NOT gates. 
 
 ![Password Protection System](/assets/Password_Protection_System.png)
 
+
 ###  Predicting Coronary Artery disease with Random Forest, Multi-layer Perceptron and Logistic Regression Models
 
 [Cardiovascular_Disease_Prediction](https://github.com/fzn011/Cardiovascular_Disease_Prediction)
