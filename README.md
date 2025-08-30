@@ -15,9 +15,14 @@
   _GPA: 5.00_
 
 ## Work Experience
-**Baper Hotel (_Date_)**
-- Just attended my sister's wedding yestarday
-
+**Bangladesh Military Academy (_2019-2020_)**
+- As an Officer Cadet at the Bangladesh Military 
+Academy, I underwent rigorous training in leadership, 
+military tactics, and physical fitness. This program 
+would have prepared me to become a commissioned 
+officer in the Bangladesh Army, focusing on discipline, 
+strategic thinking, and the ability to lead and manage 
+troops in various combat and operational settings
 **Gym (_Date_)**
 - Not going for a while
 
