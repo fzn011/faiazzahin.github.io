@@ -32,4 +32,4 @@ The Learning-Website project is a web-based educational platform built using Lar
 
 The project designs a Password Protection System using XOR, AND, and NOT gates. It compares a 4-bit key code with user input; if they match, a green LED lights up, and if not, a red LED shows. This system demonstrates how digital logic gates can be used for security by validating passwords.
 
-![Password Protection System](/assets/Password_Protection_System.gif)
+![Password Protection System](assets/Password_Protection_System.png)
